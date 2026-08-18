@@ -1,0 +1,74 @@
+[
+    {
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "category": "Electronics",
+        "current_stock": 38.0,
+        "reorder_level": 50.0,
+        "unit": "units",
+        "lead_time_days": 3.0,
+        "safety_stock": 15.0,
+        "created_at": "2026-05-20T06:25:20.798062Z",
+        "updated_at": "2026-08-18T06:41:43.966118Z"
+    },
+    {
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "category": "Hardware",
+        "current_stock": 146.0,
+        "reorder_level": 80.0,
+        "unit": "units",
+        "lead_time_days": 5.0,
+        "safety_stock": 25.0,
+        "created_at": "2026-05-20T06:25:20.798062Z",
+        "updated_at": "2026-08-18T06:25:20.800902Z"
+    },
+    {
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "category": "Apparel",
+        "current_stock": 4.0,
+        "reorder_level": 30.0,
+        "unit": "units",
+        "lead_time_days": 2.0,
+        "safety_stock": 10.0,
+        "created_at": "2026-05-20T06:25:20.798062Z",
+        "updated_at": "2026-08-18T06:25:20.801944Z"
+    },
+    {
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "category": "Industrial",
+        "current_stock": 12.0,
+        "reorder_level": 5.0,
+        "unit": "boxes",
+        "lead_time_days": 10.0,
+        "safety_stock": 2.0,
+        "created_at": "2026-05-20T06:25:20.798062Z",
+        "updated_at": "2026-08-18T06:25:20.802906Z"
+    },
+    {
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "category": "Chemicals",
+        "current_stock": 30.0,
+        "reorder_level": 40.0,
+        "unit": "liters",
+        "lead_time_days": 4.0,
+        "safety_stock": 15.0,
+        "created_at": "2026-05-20T06:25:20.798062Z",
+        "updated_at": "2026-08-18T07:09:10.441317Z"
+    },
+    {
+        "product_name": "Water Bottle",
+        "category": "Kitchen and Cookware",
+        "reorder_level": 10.0,
+        "unit": "units",
+        "lead_time_days": 3.0,
+        "safety_stock": 10.0,
+        "product_id": "PROD-06",
+        "current_stock": 0.0,
+        "created_at": "2026-08-18T07:08:24.098465Z",
+        "updated_at": "2026-08-18T10:27:24.711243Z"
+    }
+]

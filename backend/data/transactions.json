@@ -1,0 +1,3932 @@
+[
+    {
+        "transaction_id": "018b64cb31964a27a8bb817afac2591c",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 130.0,
+        "stock_after": 115.0,
+        "timestamp": "2026-05-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e40f69d62f794c358b2f0118c8d017dd",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 100.0,
+        "stock_after": 97.0,
+        "timestamp": "2026-05-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ea6010f554c04224b8502903b765fab3",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 90.0,
+        "stock_after": 89.0,
+        "timestamp": "2026-05-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8ea2e8733a7547ffb2c34b57fde441c6",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 80.0,
+        "stock_after": 72.0,
+        "timestamp": "2026-05-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d0db14f42cac45929a27dfbed6768b33",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 115.0,
+        "stock_after": 98.0,
+        "timestamp": "2026-05-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b735dca01b2449c7b684dbf188e01c7d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 97.0,
+        "stock_after": 96.0,
+        "timestamp": "2026-05-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "32a4703e1c624805b1e5e32c4ee1f399",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 89.0,
+        "stock_after": 87.0,
+        "timestamp": "2026-05-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5a6fe8545f9f4fa9a6795c09eb22af37",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 72.0,
+        "stock_after": 62.0,
+        "timestamp": "2026-05-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8d1f19491521436b9342c963fa7ebd31",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 98.0,
+        "stock_after": 91.0,
+        "timestamp": "2026-05-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "48d35db1c46f4c3298b99a087e7fa2df",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 96.0,
+        "stock_after": 94.0,
+        "timestamp": "2026-05-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3c038c7f332342b4b53ad3d1e2b85d13",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 87.0,
+        "stock_after": 85.0,
+        "timestamp": "2026-05-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b4ddbf14889e4dfdb42ba080788c3260",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 62.0,
+        "stock_after": 48.0,
+        "timestamp": "2026-05-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f922bc41a6bc4e7f8589fd36749381b3",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 46.0,
+        "stock_before": 48.0,
+        "stock_after": 46.0,
+        "timestamp": "2026-05-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9f72c1681ba543b585e79f158f120745",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 91.0,
+        "stock_after": 77.0,
+        "timestamp": "2026-05-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "95942bb1df644de69b6a9057334f5892",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 94.0,
+        "stock_after": 93.0,
+        "timestamp": "2026-05-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6d71e44fef93447883ecf43eec2fad01",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 32.0,
+        "stock_before": 85.0,
+        "stock_after": 53.0,
+        "timestamp": "2026-05-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "50d94cb55a2a4549a7e07e6c43dffecc",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 12.0,
+        "stock_after": 11.0,
+        "timestamp": "2026-05-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a6757483a1c74a33871dcdf64110341e",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 46.0,
+        "stock_after": 32.0,
+        "timestamp": "2026-05-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9d6c22aa131a45dfa02b545218f3ecbf",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 77.0,
+        "stock_after": 68.0,
+        "timestamp": "2026-05-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "976bf591a4b546dcad6d3a5369c8e52a",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 93.0,
+        "stock_after": 89.0,
+        "timestamp": "2026-05-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d2d0a8e4268c45a699b1558ad30d3c67",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 53.0,
+        "stock_after": 51.0,
+        "timestamp": "2026-05-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "27ffc2451bf84ae693910fb41bcfa3f6",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 32.0,
+        "stock_after": 22.0,
+        "timestamp": "2026-05-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "bb51c0b72b72494ea8e0f38d5ec9e900",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 68.0,
+        "stock_after": 57.0,
+        "timestamp": "2026-05-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b0f41eba281446d99218507721b8175f",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 51.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-05-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1e6f009ddf694ac491bc84e0175fed94",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 22.0,
+        "stock_after": 10.0,
+        "timestamp": "2026-05-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "01e93245726545bd8a6d716a58e5cd92",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 57.0,
+        "stock_after": 44.0,
+        "timestamp": "2026-05-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5683d20105624fec97c053c80869fd37",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 89.0,
+        "stock_after": 86.0,
+        "timestamp": "2026-05-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f2d35b086d0e4ca0a49727fbfd303e3b",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 50.0,
+        "stock_after": 49.0,
+        "timestamp": "2026-05-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "107ed3b582b346bbaebd565c9811bffd",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 10.0,
+        "stock_after": 1.0,
+        "timestamp": "2026-05-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f2a39b002efd459bafd26a6192adbb38",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 44.0,
+        "stock_after": 37.0,
+        "timestamp": "2026-05-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9fd22eb635f646e8b2ee5cfffcee4ac7",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 86.0,
+        "stock_after": 82.0,
+        "timestamp": "2026-05-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "eefbb83461f143b1bfc655563e8b7f42",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 49.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-05-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "56184e908297434bb6124d8b76776bad",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 1.0,
+        "stock_after": 81.0,
+        "timestamp": "2026-05-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a6b7b696733041cf85b791606f2670ca",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 81.0,
+        "stock_after": 71.0,
+        "timestamp": "2026-05-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "36ced7a861b24507821e562bee3de02d",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 37.0,
+        "stock_after": 29.0,
+        "timestamp": "2026-05-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7ee38aa8f774408da391680c3f08c958",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 82.0,
+        "stock_after": 78.0,
+        "timestamp": "2026-05-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c8131bf4dbff4ea8b006e1552de8e9ca",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 47.0,
+        "stock_after": 46.0,
+        "timestamp": "2026-05-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "986d7d3186604472b94f50d1b305a8c7",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 71.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-05-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a2fccd222b074cd78a98c5d5564f3feb",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 29.0,
+        "stock_after": 129.0,
+        "timestamp": "2026-05-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b456f5ee3d6b4848856a4b1cbf0eb15b",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 129.0,
+        "stock_after": 119.0,
+        "timestamp": "2026-05-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "60bdcd14a5f74b8e9ceb1ed85b6b68b6",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 78.0,
+        "stock_after": 74.0,
+        "timestamp": "2026-05-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "fcb64495cb8e4923af3a20e07f77b4d3",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 46.0,
+        "stock_after": 43.0,
+        "timestamp": "2026-05-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e6ab9f794a2441e880815747b1a25d10",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 11.0,
+        "stock_after": 10.0,
+        "timestamp": "2026-05-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d7c0c02575b3492f857ccb4c4c00b1b5",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 59.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-05-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b68c093797e44ddda08746313684cab6",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 119.0,
+        "stock_after": 106.0,
+        "timestamp": "2026-05-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "734cc6b9310e4533824c733446099546",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 74.0,
+        "stock_after": 68.0,
+        "timestamp": "2026-05-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9349b8491afe4b8e85824dbd11164547",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 67.0,
+        "stock_before": 68.0,
+        "stock_after": 67.0,
+        "timestamp": "2026-05-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "133d18af573442bf8a51bfdfc1b4f552",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 42.0,
+        "stock_before": 43.0,
+        "stock_after": 1.0,
+        "timestamp": "2026-05-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "421ded077c1a410d8ed0b5c19b0bd090",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 47.0,
+        "stock_after": 36.0,
+        "timestamp": "2026-05-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e28598f217b24b1eaced04dff786958e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 106.0,
+        "stock_after": 101.0,
+        "timestamp": "2026-05-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "39cbeab77ffc4e52bfb01f8ea8ff8bfc",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 67.0,
+        "stock_after": 65.0,
+        "timestamp": "2026-05-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "610d646cc0244808905351c1689f2410",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 1.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-05-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4e371103999a4b8ba2eedda6059b581d",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 36.0,
+        "stock_after": 26.0,
+        "timestamp": "2026-05-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "81e1bb09583e4d7f9aeff033f58490ae",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 101.0,
+        "stock_after": 89.0,
+        "timestamp": "2026-06-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "41c2144e264543e1b953ceb91b3ab53b",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 65.0,
+        "stock_after": 62.0,
+        "timestamp": "2026-06-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b1e0382b0f5c43f4a58baaacdb03879d",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_IN",
+        "quantity": 60.0,
+        "stock_before": 0.0,
+        "stock_after": 60.0,
+        "timestamp": "2026-06-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "96d1ba65fe1d4ac49afafdef6fa87be3",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 60.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-06-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "695366b92f054383a620b66327409c48",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 26.0,
+        "stock_after": 11.0,
+        "timestamp": "2026-06-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a396316c7b104c128c39afe99a7fb422",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 89.0,
+        "stock_after": 77.0,
+        "timestamp": "2026-06-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "65e2fc008c174a27aad8ae5fa8a49483",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_IN",
+        "quantity": 160.0,
+        "stock_before": 62.0,
+        "stock_after": 222.0,
+        "timestamp": "2026-06-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "13905ed4ad5f4d9d8aa6a192f0ea8ab4",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 222.0,
+        "stock_after": 216.0,
+        "timestamp": "2026-06-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c5d4e74bf75649ecbd568c71316769c5",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 59.0,
+        "stock_after": 57.0,
+        "timestamp": "2026-06-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5cacbc44d7d24fb9a4fa6053418dc716",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 11.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-06-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c0e1a1261c8244009668b7fe306897d6",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 77.0,
+        "stock_after": 67.0,
+        "timestamp": "2026-06-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "da26cac876444a2ea48d678759f459f5",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 216.0,
+        "stock_after": 209.0,
+        "timestamp": "2026-06-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "85a03d6d7ff54bf986206cdaf45b6550",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 57.0,
+        "stock_after": 56.0,
+        "timestamp": "2026-06-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1415f153d07f4358baeb3220834474aa",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 0.0,
+        "stock_after": 80.0,
+        "timestamp": "2026-06-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "130f9c7dd3b04d5b93ee716748cdebc2",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 80.0,
+        "stock_after": 71.0,
+        "timestamp": "2026-06-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "877298943d32479395c2e4e4219ba765",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 67.0,
+        "stock_after": 57.0,
+        "timestamp": "2026-06-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ebc66086cbf44c10adc7d27405798dd5",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 209.0,
+        "stock_after": 204.0,
+        "timestamp": "2026-06-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "af8f933937ce429a9bdbea4d9c1326f9",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 56.0,
+        "stock_after": 54.0,
+        "timestamp": "2026-06-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "24cf8875a98f4b0bb5f3e5cf0df88512",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 8.0,
+        "stock_before": 10.0,
+        "stock_after": 8.0,
+        "timestamp": "2026-06-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9a7b833b7bcc489788fccadd785ee386",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 71.0,
+        "stock_after": 56.0,
+        "timestamp": "2026-06-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3dc462cd10ce4122992ea280921788ef",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 57.0,
+        "stock_after": 51.0,
+        "timestamp": "2026-06-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3c9c10c148184d94a535979c2e0067f1",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 204.0,
+        "stock_after": 200.0,
+        "timestamp": "2026-06-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "19e979e3750e409dbf2e24e873fa0f6c",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 54.0,
+        "stock_after": 53.0,
+        "timestamp": "2026-06-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3d4ac51de484428ab5e5b80593332b96",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 56.0,
+        "stock_after": 45.0,
+        "timestamp": "2026-06-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f9b07ba1cb0543c788e5349616338036",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 51.0,
+        "stock_after": 40.0,
+        "timestamp": "2026-06-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d6762bdac23c4d8f96fcc102b20144dd",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 200.0,
+        "stock_after": 195.0,
+        "timestamp": "2026-06-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1bc13e716185445cb4bbb98198f1bc2f",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 53.0,
+        "stock_after": 52.0,
+        "timestamp": "2026-06-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "394e10c256aa45e299693ef7558b49cb",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 45.0,
+        "stock_after": 33.0,
+        "timestamp": "2026-06-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "851441fffb704e4ca998ade9eba9575e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 40.0,
+        "stock_after": 32.0,
+        "timestamp": "2026-06-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a28609273d744d419e72c0d8404896f5",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 195.0,
+        "stock_after": 188.0,
+        "timestamp": "2026-06-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6905590551d04168858107baa34ffbc9",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 52.0,
+        "stock_after": 51.0,
+        "timestamp": "2026-06-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7cfcecce2bd7414bb80871bdec2fe73a",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 33.0,
+        "stock_after": 16.0,
+        "timestamp": "2026-06-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "498818247095490db31c87cee0ec144c",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 32.0,
+        "stock_after": 26.0,
+        "timestamp": "2026-06-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3a6896f4c9b8459c8c885c48666ef11d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 188.0,
+        "stock_after": 181.0,
+        "timestamp": "2026-06-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1f60716840f448ae97feafb00a7a8580",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 51.0,
+        "stock_after": 49.0,
+        "timestamp": "2026-06-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7016477cec694a7f93f29b41aec6f4da",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 16.0,
+        "stock_after": 4.0,
+        "timestamp": "2026-06-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "fc971f98fc7a4abe8c7d9b967f686e48",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 26.0,
+        "stock_after": 126.0,
+        "timestamp": "2026-06-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7423c5088f9e4be68666765ae05c0bb2",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 126.0,
+        "stock_after": 118.0,
+        "timestamp": "2026-06-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "bd12ef2d06f84ab782fb5958a8955f55",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 181.0,
+        "stock_after": 177.0,
+        "timestamp": "2026-06-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9e270d9693e248f7a9c65779ebc3e91a",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 4.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-06-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8f29d40dfb26427496330eebd9b2cb76",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 118.0,
+        "stock_after": 114.0,
+        "timestamp": "2026-06-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f3d1a29db8fd47cf89fdfdce2f5d5fe4",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 177.0,
+        "stock_after": 173.0,
+        "timestamp": "2026-06-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1182950688cb4fa4be22f35787e081db",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 49.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-06-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c2c90b8309ac46129875343a48f1d519",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 0.0,
+        "stock_after": 80.0,
+        "timestamp": "2026-06-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3353c427ca5645f694a0aaf5f350f8fd",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 80.0,
+        "stock_after": 66.0,
+        "timestamp": "2026-06-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c209e9ea1c7141a5a556013975bd2c17",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 114.0,
+        "stock_after": 104.0,
+        "timestamp": "2026-06-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "73c625b382b14a87bf51379c72c96800",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 173.0,
+        "stock_after": 166.0,
+        "timestamp": "2026-06-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "354046d4036746eabcc91891991305dc",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 47.0,
+        "stock_after": 46.0,
+        "timestamp": "2026-06-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2c1b4cf5100845269ec9a7fd4ede086f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 16.0,
+        "stock_before": 66.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-06-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a813cf6adc434b78b61c871637bba357",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 104.0,
+        "stock_after": 93.0,
+        "timestamp": "2026-06-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "828fc83cbdda4e8485e41c8159171613",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 166.0,
+        "stock_after": 154.0,
+        "timestamp": "2026-06-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "cdac95c425ac4748b2829c1f6005a7e4",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 46.0,
+        "stock_after": 44.0,
+        "timestamp": "2026-06-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b714683649604458bb1f7510315e4a5d",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 50.0,
+        "stock_after": 39.0,
+        "timestamp": "2026-06-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5fffc1359331484fb02e91bde8cada56",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 93.0,
+        "stock_after": 79.0,
+        "timestamp": "2026-06-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c543ed6740fc4355b16f339e38d509e8",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 154.0,
+        "stock_after": 145.0,
+        "timestamp": "2026-06-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a7e3687e254b44a59ae9a34805fe35ff",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 35.0,
+        "stock_before": 44.0,
+        "stock_after": 9.0,
+        "timestamp": "2026-06-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2d833882994c412e8d06fb34c97b8937",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 39.0,
+        "stock_after": 25.0,
+        "timestamp": "2026-06-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "68981219d61045bf8f1e7c77749d2c60",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 79.0,
+        "stock_after": 69.0,
+        "timestamp": "2026-06-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "31e0b82c847d4044997090097722e9c2",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 145.0,
+        "stock_after": 140.0,
+        "timestamp": "2026-06-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7df123f548ab475fb7faea164c80bfca",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 25.0,
+        "stock_after": 16.0,
+        "timestamp": "2026-06-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5b18f24463404555b0628a17920db1fd",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 69.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-06-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ac9d9376fbe04a9081528c3dcb47e9a7",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 140.0,
+        "stock_after": 134.0,
+        "timestamp": "2026-06-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4d3114b195a440459b4b98e938d948e8",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_IN",
+        "quantity": 60.0,
+        "stock_before": 9.0,
+        "stock_after": 69.0,
+        "timestamp": "2026-06-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4096bdc37aa2464d8aa006b59cae1d32",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 69.0,
+        "stock_after": 67.0,
+        "timestamp": "2026-06-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d60c2e4b25104988b5bd84ea88f73f55",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 16.0,
+        "stock_after": 4.0,
+        "timestamp": "2026-06-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8cb39d2c54fe4a2b883168e263ebed95",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 59.0,
+        "stock_after": 46.0,
+        "timestamp": "2026-06-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "109feda511624a96a5f0e37a7d8c11f9",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 134.0,
+        "stock_after": 128.0,
+        "timestamp": "2026-06-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c40f4ee37bc140cc82fa3f8746a529f5",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 67.0,
+        "stock_after": 65.0,
+        "timestamp": "2026-06-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "37f8f29a0a8b446a82019b9cb457238b",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 4.0,
+        "stock_after": 84.0,
+        "timestamp": "2026-06-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "48287f7dcf7947ec8587dbc7611ee69e",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 84.0,
+        "stock_after": 74.0,
+        "timestamp": "2026-06-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f6fc4ce2a9a9484096fb3fc66530ae1f",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 46.0,
+        "stock_after": 37.0,
+        "timestamp": "2026-06-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f015ef00ecab4cefb612ccb97af0c957",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 128.0,
+        "stock_after": 120.0,
+        "timestamp": "2026-06-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "71d18bb3821748008509cf2d18ff7d50",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 65.0,
+        "stock_after": 63.0,
+        "timestamp": "2026-06-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3c5851e0b60f43b2b34d49c61e268cda",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 74.0,
+        "stock_after": 62.0,
+        "timestamp": "2026-06-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3332183de7064ee990c61c306b9163a4",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 37.0,
+        "stock_after": 31.0,
+        "timestamp": "2026-06-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3205dff8da044f5ebfa2c7a7f00f9435",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 120.0,
+        "stock_after": 113.0,
+        "timestamp": "2026-06-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b8a498b044744ca7bd9d99f903956fb3",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 63.0,
+        "stock_after": 61.0,
+        "timestamp": "2026-06-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7caa566088864f6ea01d4c1bd90630d2",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 62.0,
+        "stock_after": 52.0,
+        "timestamp": "2026-06-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d3ede7b564344f0d9b8a7433985a1653",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 31.0,
+        "stock_after": 131.0,
+        "timestamp": "2026-06-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "21f3e6c1684a46ba8677f41e967ee4d0",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 131.0,
+        "stock_after": 116.0,
+        "timestamp": "2026-06-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5bb4fc4fb46b4e159f014f6ab289003b",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 113.0,
+        "stock_after": 101.0,
+        "timestamp": "2026-06-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "fd1ef4fabd024be0954db59f2965ee58",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 39.0,
+        "stock_before": 61.0,
+        "stock_after": 22.0,
+        "timestamp": "2026-06-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c871f848ca8f4bf99a6e76179188e6a4",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 52.0,
+        "stock_after": 41.0,
+        "timestamp": "2026-06-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "cde49c5767d74775a1549bf0d1d5efb6",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 116.0,
+        "stock_after": 105.0,
+        "timestamp": "2026-06-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "febdda0136b54325ae0601cd6e8ec82d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 101.0,
+        "stock_after": 91.0,
+        "timestamp": "2026-06-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "91a48b087a914eb19eeae8d7ae3ce171",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 22.0,
+        "stock_after": 19.0,
+        "timestamp": "2026-06-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7e8bf63d93bd44559544d0379f3a2cc4",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 41.0,
+        "stock_after": 29.0,
+        "timestamp": "2026-06-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0cae6f0f866c4410864b65c989822162",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 105.0,
+        "stock_after": 92.0,
+        "timestamp": "2026-06-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "22992c575193442797f6a3429b1fb572",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 91.0,
+        "stock_after": 83.0,
+        "timestamp": "2026-06-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "25df30a08f9e47af9e80b6656abfac1c",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_IN",
+        "quantity": 60.0,
+        "stock_before": 19.0,
+        "stock_after": 79.0,
+        "timestamp": "2026-06-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "40d27ac02e694c4c9ccfd8c88ccfd09e",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 79.0,
+        "stock_after": 78.0,
+        "timestamp": "2026-06-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3ec118c6fec34e168befa46a2f2663b2",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 29.0,
+        "stock_after": 19.0,
+        "timestamp": "2026-06-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8a343943b630462d8d0bc71cc1beefbb",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 21.0,
+        "stock_before": 19.0,
+        "stock_after": 21.0,
+        "timestamp": "2026-06-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6a2cfe778c204339a55dc161e126d231",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 92.0,
+        "stock_after": 85.0,
+        "timestamp": "2026-06-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6cac9662dbf843dc91195ebc9f3b4692",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 83.0,
+        "stock_after": 74.0,
+        "timestamp": "2026-06-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1bc6a2acc2274314ad43921e70dbe652",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 42.0,
+        "stock_before": 78.0,
+        "stock_after": 36.0,
+        "timestamp": "2026-06-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8a159c3d71094c47ba4076a124392d2f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 21.0,
+        "stock_after": 11.0,
+        "timestamp": "2026-06-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1af4cefc9656422f991c91b587e3d614",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 85.0,
+        "stock_after": 77.0,
+        "timestamp": "2026-06-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b77c4af7d4ab4c29a44389b5615cc027",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 74.0,
+        "stock_after": 66.0,
+        "timestamp": "2026-06-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1d880b8043bd409c82b5f765d533aa3c",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 36.0,
+        "stock_after": 35.0,
+        "timestamp": "2026-06-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8d5ddd9d50c247ad9bafd9450eb0cbf2",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 11.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-06-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d72f16c81d5e47dc814da4e60d893370",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 77.0,
+        "stock_after": 66.0,
+        "timestamp": "2026-06-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1a7ec9f4efb34b2ab6f02f60cedc66ce",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 66.0,
+        "stock_after": 60.0,
+        "timestamp": "2026-06-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "41de49b409404565973e534315d09d0c",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 35.0,
+        "stock_after": 33.0,
+        "timestamp": "2026-06-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d0ac5ab18a3546fba74610492c53e858",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 0.0,
+        "stock_after": 80.0,
+        "timestamp": "2026-06-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e98bb83b31984b0496ef2806efef241a",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 80.0,
+        "stock_after": 70.0,
+        "timestamp": "2026-06-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0ac7abf23caf409b91eaff4183d644e7",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 66.0,
+        "stock_after": 56.0,
+        "timestamp": "2026-06-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "88d073025a274b028438d5420c5d5db1",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 60.0,
+        "stock_after": 52.0,
+        "timestamp": "2026-06-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8d2d15ab5e19405bb2cb837287d616a4",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 33.0,
+        "stock_after": 32.0,
+        "timestamp": "2026-06-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3c60766dff7b4f2485d609a5269f0625",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 70.0,
+        "stock_after": 60.0,
+        "timestamp": "2026-06-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "964b9db28cba4804a86319cae618f903",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 56.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-06-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f946fb39e78544d291f24acbda9ff9d0",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 52.0,
+        "stock_after": 41.0,
+        "timestamp": "2026-06-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "80e60876652d485e9dd580f3085236b2",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 32.0,
+        "stock_after": 31.0,
+        "timestamp": "2026-06-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e81121e5e8914cd7a20dea61f5270f25",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 60.0,
+        "stock_after": 46.0,
+        "timestamp": "2026-06-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "439b43a3df4b40c7a815c7188af77771",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 50.0,
+        "stock_after": 39.0,
+        "timestamp": "2026-06-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "037f4fa2cef84fc8b2f00b8499c64200",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_IN",
+        "quantity": 160.0,
+        "stock_before": 41.0,
+        "stock_after": 201.0,
+        "timestamp": "2026-06-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f3982cbc22a549e38fd52c09313e4444",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 201.0,
+        "stock_after": 196.0,
+        "timestamp": "2026-06-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7c95d1e78cc94282b1939d040c725467",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 31.0,
+        "stock_after": 29.0,
+        "timestamp": "2026-06-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "41554243144841cfa3477efd43741247",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 46.0,
+        "stock_after": 37.0,
+        "timestamp": "2026-06-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7eaf32140fee41d3a6bd1850750266be",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 39.0,
+        "stock_after": 28.0,
+        "timestamp": "2026-06-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5d23ccd563b543ccbc258616415374bc",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 196.0,
+        "stock_after": 186.0,
+        "timestamp": "2026-06-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "cfbfc30ea7344adf90df89de3c795735",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 29.0,
+        "stock_after": 26.0,
+        "timestamp": "2026-06-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ad5cbd1f045d464c9b33d13c0e6fe442",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 37.0,
+        "stock_after": 23.0,
+        "timestamp": "2026-06-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "db40c5c054a0430e8d55b3cb97b6966e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 28.0,
+        "stock_after": 128.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d10ab00610fc401ebe0ab2fa6b6846d6",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 128.0,
+        "stock_after": 119.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "cdf07003491a408f9d76c7f36e1b8c59",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 186.0,
+        "stock_after": 177.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9ad9ec2b6d64472ca56aa57b12d9e846",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 178.0,
+        "stock_before": 177.0,
+        "stock_after": 178.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1c410a44d1834b56afca0d68007be26b",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_IN",
+        "quantity": 60.0,
+        "stock_before": 26.0,
+        "stock_after": 86.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d6ea9f6f20d740c2aca75ba8c88f8068",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 86.0,
+        "stock_after": 84.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9a00979adbe34b9cbe8482d1ed35e15b",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 23.0,
+        "stock_after": 9.0,
+        "timestamp": "2026-06-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "077390470f404f08bda357a2ab151c9a",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 7.0,
+        "stock_before": 119.0,
+        "stock_after": 112.0,
+        "timestamp": "2026-06-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3f86709b4098422d89d6a2037837af3a",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 178.0,
+        "stock_after": 170.0,
+        "timestamp": "2026-06-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "aae390f0287a483da522a5d31ac005d0",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 84.0,
+        "stock_after": 82.0,
+        "timestamp": "2026-06-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6b71f630ef624e32b371b0b9469afcb8",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 9.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-06-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ac91a5d520fa47439dc40b375fb77c97",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 112.0,
+        "stock_after": 106.0,
+        "timestamp": "2026-07-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "fc8299e7c01040b6a95820aa2096bf70",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 170.0,
+        "stock_after": 161.0,
+        "timestamp": "2026-07-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "856074fa35c64f329b482ecc3caa97a9",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 82.0,
+        "stock_after": 81.0,
+        "timestamp": "2026-07-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2d1c7e550ac444ebb8c11efdbb8baedd",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 0.0,
+        "stock_after": 80.0,
+        "timestamp": "2026-07-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "38e7a0e345f045e1b0d844e2be29309e",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 80.0,
+        "stock_after": 67.0,
+        "timestamp": "2026-07-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f4c718086b104aaa876fd9e2d6a9ba7f",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 106.0,
+        "stock_after": 94.0,
+        "timestamp": "2026-07-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "58f09e2374cf46968d13093f09a76774",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 161.0,
+        "stock_after": 148.0,
+        "timestamp": "2026-07-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2d98c4333355410baa2042a521b4fa59",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 81.0,
+        "stock_after": 79.0,
+        "timestamp": "2026-07-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "31ef005790fd454a857612fce1d81f0f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 67.0,
+        "stock_after": 57.0,
+        "timestamp": "2026-07-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "bdd6647aebc1441a991e5eba58032595",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 94.0,
+        "stock_after": 84.0,
+        "timestamp": "2026-07-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7e1d69dbd13843a0b6c157dbba44e92e",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 148.0,
+        "stock_after": 142.0,
+        "timestamp": "2026-07-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8639840657124f80b0cb16e396ed4223",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 79.0,
+        "stock_after": 78.0,
+        "timestamp": "2026-07-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b2a826306b064e758cedd8a529fe5ec0",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 57.0,
+        "stock_after": 48.0,
+        "timestamp": "2026-07-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b3bf1110160046a5842e2b99f7ea37fa",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 84.0,
+        "stock_after": 72.0,
+        "timestamp": "2026-07-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9e7bc0e3c9f14edbb02a6e4c3d640d85",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 142.0,
+        "stock_after": 133.0,
+        "timestamp": "2026-07-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5bbb0bed9c5e4c98998f7192c6a2a4d4",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 78.0,
+        "stock_after": 76.0,
+        "timestamp": "2026-07-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c45516c80a0640c5bc15f6e86c6ee792",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 48.0,
+        "stock_after": 35.0,
+        "timestamp": "2026-07-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "afe5d6468cbe4572aa490c8387114546",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 72.0,
+        "stock_after": 63.0,
+        "timestamp": "2026-07-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5f1b494718504632a0dfcbc0054b7f78",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 133.0,
+        "stock_after": 123.0,
+        "timestamp": "2026-07-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ecbf87bd96ca41428caa95ba378c3546",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 76.0,
+        "stock_after": 73.0,
+        "timestamp": "2026-07-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d7ce4881d4454079bf278d66a7256c7a",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 35.0,
+        "stock_after": 26.0,
+        "timestamp": "2026-07-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ed5b3784ce534104ae32cd2e4702e47d",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 63.0,
+        "stock_after": 52.0,
+        "timestamp": "2026-07-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3620aac9203245c3a3a05445ad9c09c8",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 123.0,
+        "stock_after": 108.0,
+        "timestamp": "2026-07-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6d36ea23c99c4f6ab3d68b250525f6fc",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 73.0,
+        "stock_after": 72.0,
+        "timestamp": "2026-07-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "976c6a3dccd247efb25f8bad760ef06f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 26.0,
+        "stock_after": 16.0,
+        "timestamp": "2026-07-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "32f24d43d757494f9fdb05367f723953",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 52.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-07-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "dde4eefbb86645bbbf2c9582ab585491",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 108.0,
+        "stock_after": 97.0,
+        "timestamp": "2026-07-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a98ad68b43474ec2a56d9092ffcc8b03",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 72.0,
+        "stock_after": 70.0,
+        "timestamp": "2026-07-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "275703ee4ee04103be8937abb271d341",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 16.0,
+        "stock_after": 5.0,
+        "timestamp": "2026-07-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0150ec4eaea340938a719753d9d4e632",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 47.0,
+        "stock_after": 36.0,
+        "timestamp": "2026-07-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b816aad26f9340688e97fa520f82033f",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 97.0,
+        "stock_after": 88.0,
+        "timestamp": "2026-07-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6d2dac5927404721ad7b2168a93347c7",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 70.0,
+        "stock_after": 67.0,
+        "timestamp": "2026-07-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ebbcd6ae03e9432f989c0030df7f0741",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 5.0,
+        "stock_after": 85.0,
+        "timestamp": "2026-07-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5506394157dd4560936099297bec471c",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 85.0,
+        "stock_after": 71.0,
+        "timestamp": "2026-07-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5cf25bccb3fa407f8dcd8099d7e86e1e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 36.0,
+        "stock_after": 30.0,
+        "timestamp": "2026-07-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4b2dd87bafed40b6b29b74b2d0e37071",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 88.0,
+        "stock_after": 75.0,
+        "timestamp": "2026-07-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c2317687e1c54ae092eb6c18c48120ae",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 67.0,
+        "stock_after": 65.0,
+        "timestamp": "2026-07-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c8a29df03b3b4e2b8d74bca2c0551ef6",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 8.0,
+        "stock_after": 7.0,
+        "timestamp": "2026-07-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7520f52f934b4aa5bb8dab9a7847f68c",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 71.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-07-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "88a432b8a16d4594a9b665d740a81fac",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 30.0,
+        "stock_after": 130.0,
+        "timestamp": "2026-07-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ad7a5bfd84ec4e119af7a624874f8056",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 130.0,
+        "stock_after": 121.0,
+        "timestamp": "2026-07-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "85b3552426ae48a8b6dbacf72771c00d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 75.0,
+        "stock_after": 65.0,
+        "timestamp": "2026-07-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0eeeb9ed939e46aca22dff7029c8871b",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 65.0,
+        "stock_after": 63.0,
+        "timestamp": "2026-07-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c285cbd8a96248128e3fab0d5709a3cf",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 59.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-07-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a36a2b93956647529faf66e70734bb2f",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 121.0,
+        "stock_after": 106.0,
+        "timestamp": "2026-07-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "401fae234fa94279b22ef887416fbd80",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 65.0,
+        "stock_after": 56.0,
+        "timestamp": "2026-07-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d49217d9fcd049cb98cc92f3093a1423",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 63.0,
+        "stock_after": 60.0,
+        "timestamp": "2026-07-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "468c07daa3474fb48bf9c0e4fc0514ce",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 47.0,
+        "stock_after": 39.0,
+        "timestamp": "2026-07-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "21b9f639efe644afb5fd06b2077e87a1",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 106.0,
+        "stock_after": 95.0,
+        "timestamp": "2026-07-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7b87e20899a5450c9937e398ac1d8fc7",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 56.0,
+        "stock_after": 42.0,
+        "timestamp": "2026-07-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0b14f49008b34fb3be72cf516e8aa3e4",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 60.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-07-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "fa9f97e4eb9545dba16220d16a3e2e9d",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 39.0,
+        "stock_after": 27.0,
+        "timestamp": "2026-07-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d6381fb7d8724890997d43da8593937e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 95.0,
+        "stock_after": 87.0,
+        "timestamp": "2026-07-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f0d165dd23944173b0b48fd1aeccdb95",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 42.0,
+        "stock_after": 30.0,
+        "timestamp": "2026-07-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f09cebc55c08498081fd9d3dc80a7fb6",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 59.0,
+        "stock_after": 56.0,
+        "timestamp": "2026-07-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "512c87e322074ace89269f70e580f179",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 16.0,
+        "stock_before": 27.0,
+        "stock_after": 11.0,
+        "timestamp": "2026-07-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4e3418acc9364ad8b22569e38cb43c05",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 87.0,
+        "stock_after": 75.0,
+        "timestamp": "2026-07-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "90035b1f1f7c47a984c99842da3a54da",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_IN",
+        "quantity": 160.0,
+        "stock_before": 30.0,
+        "stock_after": 190.0,
+        "timestamp": "2026-07-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c82f8e05015947a883182003906c7010",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 190.0,
+        "stock_after": 180.0,
+        "timestamp": "2026-07-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b9ec0259bf8248e0bb1448afb5f67fcb",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 56.0,
+        "stock_after": 54.0,
+        "timestamp": "2026-07-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a1abb4a6f78b4368a0284ee8f99bc082",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 11.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-07-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9931950781874823a284c46cd3d213d4",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 75.0,
+        "stock_after": 65.0,
+        "timestamp": "2026-07-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e84e24f9fd4a477195fbb653f2a0aa8d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 180.0,
+        "stock_after": 170.0,
+        "timestamp": "2026-07-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8ae31715e4314c698f67c9a43db9ab05",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 54.0,
+        "stock_after": 53.0,
+        "timestamp": "2026-07-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a40872fb1dda40428a03d75104e94ef1",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 0.0,
+        "stock_after": 80.0,
+        "timestamp": "2026-07-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a72853b0640a4827809681502644c9fc",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 80.0,
+        "stock_after": 65.0,
+        "timestamp": "2026-07-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1f6288dffc5b44bab6f9cb350caf9061",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 65.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-07-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e93211bea1cf4f049f44bc0baa8e8eb6",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 170.0,
+        "stock_after": 158.0,
+        "timestamp": "2026-07-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1be6c2b834214456ba7d292e451713ac",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 53.0,
+        "stock_after": 51.0,
+        "timestamp": "2026-07-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ce8875ebece84c4793f2dd5f1c14bbd0",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 7.0,
+        "stock_after": 6.0,
+        "timestamp": "2026-07-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "469f116bf8e7405baef752baeb39d63c",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 65.0,
+        "stock_after": 53.0,
+        "timestamp": "2026-07-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3780b88860154b5bbecef7e149f7cb64",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 59.0,
+        "stock_after": 49.0,
+        "timestamp": "2026-07-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "96c44ac8d67843ceb25ed4a585478f13",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 158.0,
+        "stock_after": 145.0,
+        "timestamp": "2026-07-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "85220ca5b11c4ec29fd4da74cc48559f",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 51.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-07-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "eb97e01ea22b4363b9d0df330a44c79c",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 6.0,
+        "stock_after": 5.0,
+        "timestamp": "2026-07-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "85a22c519e1744a79004b59e7ea2fb08",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 53.0,
+        "stock_after": 39.0,
+        "timestamp": "2026-07-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "803321814f294820b72cb6a33e6f68d3",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 49.0,
+        "stock_after": 40.0,
+        "timestamp": "2026-07-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8ee8486bf7774b22a7d0374c6dfa3fd2",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 145.0,
+        "stock_after": 130.0,
+        "timestamp": "2026-07-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "029f284cc6f54d058d1217d34f0ba6c7",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 50.0,
+        "stock_after": 49.0,
+        "timestamp": "2026-07-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c6009e2a97024725a9b287f49187fc6e",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 39.0,
+        "stock_after": 26.0,
+        "timestamp": "2026-07-18T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c1352df815b64a2980806ea346e8b34f",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 40.0,
+        "stock_after": 28.0,
+        "timestamp": "2026-07-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "735f3c02086144878ca87cf1450d6543",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 130.0,
+        "stock_after": 120.0,
+        "timestamp": "2026-07-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ff4fdd7254954666b20df289c72e1137",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 26.0,
+        "stock_after": 16.0,
+        "timestamp": "2026-07-19T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "38a804d230654e369476844e3745fdcd",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 28.0,
+        "stock_after": 128.0,
+        "timestamp": "2026-07-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "35b87ba20b394e26bf4066829a341a70",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 128.0,
+        "stock_after": 117.0,
+        "timestamp": "2026-07-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0ea4aef603ce48fe9c0f2dadf1239e65",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 120.0,
+        "stock_after": 106.0,
+        "timestamp": "2026-07-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "78d3140121914462b76ad4aad0f1f277",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 49.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-07-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ce2ee5c507374c2fa3feaad1abbde528",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 16.0,
+        "stock_after": 6.0,
+        "timestamp": "2026-07-20T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "95d619498c3c4fa7b210662c4b2b52f0",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 117.0,
+        "stock_after": 107.0,
+        "timestamp": "2026-07-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4f4f1fc15b0f4c0ebb6a2320c6a4ae79",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 106.0,
+        "stock_after": 92.0,
+        "timestamp": "2026-07-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d7e5307affd546bc9d77fffe574defeb",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 47.0,
+        "stock_after": 45.0,
+        "timestamp": "2026-07-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "491e0d9ac5a743c39ea614862431de71",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 6.0,
+        "stock_after": 86.0,
+        "timestamp": "2026-07-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d9d0a0f7fe394f1792d069a56df89bf4",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 86.0,
+        "stock_after": 74.0,
+        "timestamp": "2026-07-21T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d2c3fbbcaddc4c48a517c4852e378a9f",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 107.0,
+        "stock_after": 98.0,
+        "timestamp": "2026-07-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e6f8cb5c10e244ef9927f14729db17d0",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 92.0,
+        "stock_after": 78.0,
+        "timestamp": "2026-07-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "22fad8498fff48d491e3726b188aece7",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 45.0,
+        "stock_after": 43.0,
+        "timestamp": "2026-07-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f8823a26b8c9487784565374aca1508b",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 74.0,
+        "stock_after": 61.0,
+        "timestamp": "2026-07-22T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "819bfa24731140668a40f2074ff75749",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 98.0,
+        "stock_after": 90.0,
+        "timestamp": "2026-07-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5f1c94b214df4fd49d305a274eaccbbc",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 16.0,
+        "stock_before": 78.0,
+        "stock_after": 62.0,
+        "timestamp": "2026-07-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "274b74bea7394a8081adb3fe9f2d1824",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 43.0,
+        "stock_after": 41.0,
+        "timestamp": "2026-07-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ad999e6b70424ced932fcfbee328ead0",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 61.0,
+        "stock_after": 51.0,
+        "timestamp": "2026-07-23T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3dfeb544f6394aa58991339742a2824e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 90.0,
+        "stock_after": 82.0,
+        "timestamp": "2026-07-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "53c2a82f2e484f9a84fe7c3b419f51d1",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 62.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-07-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "09b52653e9304b97af38e1fe2fe1c0c2",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 41.0,
+        "stock_after": 40.0,
+        "timestamp": "2026-07-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "df5c58a27b9e4756a781e524dc0d6177",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 51.0,
+        "stock_after": 42.0,
+        "timestamp": "2026-07-24T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b3fd93e0df8848628341ca36f7dee9df",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 82.0,
+        "stock_after": 71.0,
+        "timestamp": "2026-07-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2556c2d04a034a72a59b2f2f711bd31a",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 50.0,
+        "stock_after": 40.0,
+        "timestamp": "2026-07-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7550481f94e947d7ac25aa6e2c1d84ee",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 40.0,
+        "stock_after": 37.0,
+        "timestamp": "2026-07-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "98fd72cf778348d0bbf6088e8c3abf19",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 42.0,
+        "stock_after": 31.0,
+        "timestamp": "2026-07-25T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ccdfe75b8d6a458c86b3b1361158746e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 71.0,
+        "stock_after": 59.0,
+        "timestamp": "2026-07-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7acfec1a6fa043f2a1d5e3ce02274801",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 40.0,
+        "stock_after": 23.0,
+        "timestamp": "2026-07-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7774d33657634a63b4a7a9ae2598b28f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 31.0,
+        "stock_after": 20.0,
+        "timestamp": "2026-07-26T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "33d1ffdd64954496931f887765e630ae",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 6.0,
+        "stock_before": 59.0,
+        "stock_after": 53.0,
+        "timestamp": "2026-07-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "50d819b5e9d1428997b5433741d8c807",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_IN",
+        "quantity": 160.0,
+        "stock_before": 23.0,
+        "stock_after": 183.0,
+        "timestamp": "2026-07-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "755ea43ad50b4e4a9028b4ceaf0800d3",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 183.0,
+        "stock_after": 166.0,
+        "timestamp": "2026-07-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "86f1b4d9dba947cd8d7e733922ef5a55",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 37.0,
+        "stock_after": 35.0,
+        "timestamp": "2026-07-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9c222638f75940adb0fbd888b4638592",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_IN",
+        "quantity": 10.0,
+        "stock_before": 5.0,
+        "stock_after": 15.0,
+        "timestamp": "2026-07-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c3ed630c63fe4d2bb7010bf67f99506d",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 20.0,
+        "stock_after": 9.0,
+        "timestamp": "2026-07-27T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f880a26c251d411c8ae5d62bdeb67549",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 53.0,
+        "stock_after": 40.0,
+        "timestamp": "2026-07-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "abca8945317947759641424508232d5f",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 166.0,
+        "stock_after": 152.0,
+        "timestamp": "2026-07-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "9d7d6d7a91a9468690d650e4ea836f4f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 9.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-07-28T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a2751381637d4fe9a44503548af0cf08",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 40.0,
+        "stock_after": 31.0,
+        "timestamp": "2026-07-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b10b935b2fe143178679cc736b842344",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 152.0,
+        "stock_after": 135.0,
+        "timestamp": "2026-07-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "23a83bcd6edd4685a86e97144d2cca2a",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 35.0,
+        "stock_after": 34.0,
+        "timestamp": "2026-07-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7767b8331b4c42fc9e11bcfb35339c25",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 36.0,
+        "stock_before": 34.0,
+        "stock_after": 36.0,
+        "timestamp": "2026-07-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "09bd3459921840ccbe3f73d813dd856d",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 80.0,
+        "stock_before": 0.0,
+        "stock_after": 80.0,
+        "timestamp": "2026-07-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8cc82873794d4824ad091398a506f00f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 80.0,
+        "stock_after": 68.0,
+        "timestamp": "2026-07-29T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4f91039811fe44118b17d0a0dba36c50",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 31.0,
+        "stock_after": 23.0,
+        "timestamp": "2026-07-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8e9776799b784b75b72f2141af54ca5a",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 135.0,
+        "stock_after": 124.0,
+        "timestamp": "2026-07-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "90b038f30c574c9bb1e31ffd2828890f",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 36.0,
+        "stock_after": 34.0,
+        "timestamp": "2026-07-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "605f50e301634961bc1b251f82216008",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 68.0,
+        "stock_after": 55.0,
+        "timestamp": "2026-07-30T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "04f49454bac544f2b8de225af67b6189",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 23.0,
+        "stock_after": 123.0,
+        "timestamp": "2026-07-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "15ce7cac166f4db7aea00cb82b2b7072",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 123.0,
+        "stock_after": 114.0,
+        "timestamp": "2026-07-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d39bbf2d20a84915a242adef7720d4a7",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 124.0,
+        "stock_after": 109.0,
+        "timestamp": "2026-07-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5491e470354145158b96d4e87864d86c",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 34.0,
+        "stock_after": 33.0,
+        "timestamp": "2026-07-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3829c7df60e440adb109166f6ea43e37",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 8.0,
+        "stock_before": 55.0,
+        "stock_after": 47.0,
+        "timestamp": "2026-07-31T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3748d2f3679244cc8d2a2a1950c87e90",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 114.0,
+        "stock_after": 109.0,
+        "timestamp": "2026-08-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d4379045a5184afa9e5e0d0edcbbffb8",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 109.0,
+        "stock_after": 92.0,
+        "timestamp": "2026-08-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "63cb25051ee54afaaac1ad5ae013ec9d",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 33.0,
+        "stock_after": 32.0,
+        "timestamp": "2026-08-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f029072ab4634ae7bc2b2f5de8c2e215",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 47.0,
+        "stock_after": 33.0,
+        "timestamp": "2026-08-01T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "bbbdee30f61040a7a2326b4e3b3afd9a",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 109.0,
+        "stock_after": 96.0,
+        "timestamp": "2026-08-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "0432c228f8974312b59cf3adbee59ff1",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 92.0,
+        "stock_after": 75.0,
+        "timestamp": "2026-08-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f414b90a43b94210a9ae89f9d49212ea",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 74.0,
+        "stock_before": 75.0,
+        "stock_after": 74.0,
+        "timestamp": "2026-08-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "93956814af1c479fbe24934d68bdc62e",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 32.0,
+        "stock_after": 30.0,
+        "timestamp": "2026-08-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6f27b293c0dc43b6b75c2c7b7f289036",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 33.0,
+        "stock_after": 23.0,
+        "timestamp": "2026-08-02T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "dfd311a0cbf34ccbaf1e62e0bbbc15ef",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 96.0,
+        "stock_after": 86.0,
+        "timestamp": "2026-08-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6fb96665590e4172b475278045e6c141",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 74.0,
+        "stock_after": 60.0,
+        "timestamp": "2026-08-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "5d739abcde4d4053bdedb911a4e6ea1f",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 30.0,
+        "stock_after": 29.0,
+        "timestamp": "2026-08-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c160e152c74f448cad0cd8ee3d79afb8",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 13.0,
+        "stock_before": 23.0,
+        "stock_after": 10.0,
+        "timestamp": "2026-08-03T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "989d1a1cb22548d39e25731e53d510a7",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 11.0,
+        "stock_before": 86.0,
+        "stock_after": 75.0,
+        "timestamp": "2026-08-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a86c946ba9d24b7d8aa08968a6f3b6f0",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 60.0,
+        "stock_after": 45.0,
+        "timestamp": "2026-08-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "13bb3f5dd4a04bd5bd2206c10daa0175",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_IN",
+        "quantity": 60.0,
+        "stock_before": 29.0,
+        "stock_after": 89.0,
+        "timestamp": "2026-08-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "1c297958f1444ac0afca757dde4c62d2",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 10.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-08-04T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "88b3568d4be64c149c36ddf2444d7f1c",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 75.0,
+        "stock_after": 61.0,
+        "timestamp": "2026-08-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a6ab3dabb2cc4fd79f862c121422ab7e",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 45.0,
+        "stock_after": 28.0,
+        "timestamp": "2026-08-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "ed5f96218d0d4e528978ff3c72d13110",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 89.0,
+        "stock_after": 88.0,
+        "timestamp": "2026-08-05T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c6aa3d96ed1242bc813858925499ac49",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 61.0,
+        "stock_after": 49.0,
+        "timestamp": "2026-08-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "15dbed9032f648d885ae189ca5c65501",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 18.0,
+        "stock_before": 28.0,
+        "stock_after": 10.0,
+        "timestamp": "2026-08-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "8e8d8d02757a49ff9b0810ef0645e42f",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 88.0,
+        "stock_after": 87.0,
+        "timestamp": "2026-08-06T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "483a11aec95b4f5ab918c6a0d5e1d3d7",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 49.0,
+        "stock_after": 37.0,
+        "timestamp": "2026-08-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d946e47a0ce548bf8ce1d59df2bd535b",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_IN",
+        "quantity": 160.0,
+        "stock_before": 10.0,
+        "stock_after": 170.0,
+        "timestamp": "2026-08-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "19b88482970249f58ec3c3834f8cab5d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 18.0,
+        "stock_before": 170.0,
+        "stock_after": 152.0,
+        "timestamp": "2026-08-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2134098aaa654372b232f4198e650e05",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 37.0,
+        "stock_before": 87.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-08-07T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "b75545cbb87042389cacb933726779b9",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 37.0,
+        "stock_after": 27.0,
+        "timestamp": "2026-08-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "986758cdced6490e991e96fa4eff2f74",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 21.0,
+        "stock_before": 152.0,
+        "stock_after": 131.0,
+        "timestamp": "2026-08-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f42abbd27fdd40e5ad92e8f1dd06d104",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 50.0,
+        "stock_after": 49.0,
+        "timestamp": "2026-08-08T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f91afb45d4094ce0b956feade4edc9f1",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 100.0,
+        "stock_before": 27.0,
+        "stock_after": 127.0,
+        "timestamp": "2026-08-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6412c363f6134e1bbb2f2b71e4978257",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 127.0,
+        "stock_after": 113.0,
+        "timestamp": "2026-08-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f5b8fcc694fb4dfca26c522b0d343378",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 131.0,
+        "stock_after": 116.0,
+        "timestamp": "2026-08-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3e4bb678027d4898b0457b01d96a606e",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 3.0,
+        "stock_before": 49.0,
+        "stock_after": 46.0,
+        "timestamp": "2026-08-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "97036876b66e46379f7fe14b86e9e38d",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 14.0,
+        "stock_before": 15.0,
+        "stock_after": 14.0,
+        "timestamp": "2026-08-09T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "10b6d9e64178476cad9ffc46efa7c319",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 113.0,
+        "stock_after": 104.0,
+        "timestamp": "2026-08-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "974ba9a88d7a4215bfc3b4a258d5a2e4",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 15.0,
+        "stock_before": 116.0,
+        "stock_after": 101.0,
+        "timestamp": "2026-08-10T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "faeac956e2e245718b7e59ff62d68c83",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 104.0,
+        "stock_after": 94.0,
+        "timestamp": "2026-08-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "65d86a282b4d4c648d5f77445efed60e",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 16.0,
+        "stock_before": 101.0,
+        "stock_after": 85.0,
+        "timestamp": "2026-08-11T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f429e433873e4fc6ac8b5639c348f781",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 94.0,
+        "stock_after": 85.0,
+        "timestamp": "2026-08-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "94959e4f458e41e98cbfb51cb41f8e4a",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 16.0,
+        "stock_before": 85.0,
+        "stock_after": 69.0,
+        "timestamp": "2026-08-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a81e9b64720942b68cee5e5db023d3a3",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 14.0,
+        "stock_after": 13.0,
+        "timestamp": "2026-08-12T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "418c26f19d4449528827f33f12e0f89b",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 10.0,
+        "stock_before": 85.0,
+        "stock_after": 75.0,
+        "timestamp": "2026-08-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2da49639460f4560b3837586b54d4640",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 18.0,
+        "stock_before": 69.0,
+        "stock_after": 51.0,
+        "timestamp": "2026-08-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "f33d385257e24db9abad0534f8f06040",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 46.0,
+        "stock_after": 44.0,
+        "timestamp": "2026-08-13T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "d90f8c81b83d4706a1e23005e22e11ce",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 75.0,
+        "stock_after": 61.0,
+        "timestamp": "2026-08-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e9d8e39f83f448c1a4c447915c6f31cd",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 51.0,
+        "stock_after": 34.0,
+        "timestamp": "2026-08-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "7ab402ebb7bb4a6baab6fdfd556d276e",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 44.0,
+        "stock_after": 43.0,
+        "timestamp": "2026-08-14T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "6a6ac1bbe5cd4d36a0cdebd06a4a6530",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 9.0,
+        "stock_before": 61.0,
+        "stock_after": 52.0,
+        "timestamp": "2026-08-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "a01451e306834763bb66a5eb7d85d720",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 34.0,
+        "stock_after": 17.0,
+        "timestamp": "2026-08-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "86a596da1bf54b8290bdfbc8dff65ca3",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 43.0,
+        "stock_after": 42.0,
+        "timestamp": "2026-08-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3edcaeafbeb84b3cafc757ba51df8cb4",
+        "product_id": "PROD-04",
+        "product_name": "Titanium Valve Y",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 1.0,
+        "stock_before": 13.0,
+        "stock_after": 12.0,
+        "timestamp": "2026-08-15T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "dc454f5509894c47b0ddb2062be7b6b8",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 52.0,
+        "stock_after": 40.0,
+        "timestamp": "2026-08-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "c4264660b8ba496a8c5eeeaffd268d3d",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 17.0,
+        "stock_before": 17.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-08-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "380511dea28c4055bfe20f3ef6b28863",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 36.0,
+        "stock_before": 42.0,
+        "stock_after": 6.0,
+        "timestamp": "2026-08-16T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "4c942ef1dfa74ad1a27b56eeea76b838",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 12.0,
+        "stock_before": 40.0,
+        "stock_after": 28.0,
+        "timestamp": "2026-08-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "3caaf62c39e34f1482140dbe41e8e04f",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_IN",
+        "quantity": 160.0,
+        "stock_before": 0.0,
+        "stock_after": 160.0,
+        "timestamp": "2026-08-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "19060d637eb649aeb5822af8dc55e3a9",
+        "product_id": "PROD-02",
+        "product_name": "IronGizmo B",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 14.0,
+        "stock_before": 160.0,
+        "stock_after": 146.0,
+        "timestamp": "2026-08-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "e808786ad2454309b58d47765aef4065",
+        "product_id": "PROD-03",
+        "product_name": "ActiveSeason X",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 2.0,
+        "stock_before": 6.0,
+        "stock_after": 4.0,
+        "timestamp": "2026-08-17T06:25:20.798062Z"
+    },
+    {
+        "transaction_id": "2a5a199832b5450c83057241cbd65b9e",
+        "product_id": "PROD-01",
+        "product_name": "EcoWidget A",
+        "transaction_type": "STOCK_IN",
+        "quantity": 10.0,
+        "stock_before": 28.0,
+        "stock_after": 38.0,
+        "timestamp": "2026-08-18T06:41:43.966596Z"
+    },
+    {
+        "transaction_id": "4635bf46cefc47f68b2e452500184f8d",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 50.0,
+        "stock_before": 10.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-08-18T07:08:37.471548Z"
+    },
+    {
+        "transaction_id": "0f92980fd10d4ecf9a61b1980d0c6a7c",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "ADJUSTMENT",
+        "quantity": 70.0,
+        "stock_before": 50.0,
+        "stock_after": 70.0,
+        "timestamp": "2026-08-18T07:08:46.106444Z"
+    },
+    {
+        "transaction_id": "0b26fa2ccae14ff8b44418311529558f",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_IN",
+        "quantity": 50.0,
+        "stock_before": 0.0,
+        "stock_after": 50.0,
+        "timestamp": "2026-08-18T07:09:04.839882Z"
+    },
+    {
+        "transaction_id": "95b6eb0d948c4f36b5d17f1fff10474b",
+        "product_id": "PROD-05",
+        "product_name": "Solvent Chemical Z",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 20.0,
+        "stock_before": 50.0,
+        "stock_after": 30.0,
+        "timestamp": "2026-08-18T07:09:10.442781Z"
+    },
+    {
+        "transaction_id": "f4c4937ea94e47e1944b8cb3abc84ab8",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 70.0,
+        "stock_before": 70.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-08-18T07:13:00.038997Z"
+    },
+    {
+        "transaction_id": "13f533d5eee441b3a7aa3502057dd2ca",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "STOCK_IN",
+        "quantity": 20.0,
+        "stock_before": 0.0,
+        "stock_after": 20.0,
+        "timestamp": "2026-08-18T07:14:47.169473Z"
+    },
+    {
+        "transaction_id": "f84a530ca5c74df7a6bbad1d36713410",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 5.0,
+        "stock_before": 20.0,
+        "stock_after": 15.0,
+        "timestamp": "2026-08-18T10:27:01.237433Z"
+    },
+    {
+        "transaction_id": "ac388bfa65584c0b9b80c1af4ae5f027",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "STOCK_IN",
+        "quantity": 19.0,
+        "stock_before": 15.0,
+        "stock_after": 34.0,
+        "timestamp": "2026-08-18T10:27:07.215917Z"
+    },
+    {
+        "transaction_id": "b6b3cb15d07d4228aa6ee0cbc543e2e4",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 30.0,
+        "stock_before": 34.0,
+        "stock_after": 4.0,
+        "timestamp": "2026-08-18T10:27:15.096083Z"
+    },
+    {
+        "transaction_id": "da3804bbf24a4ccb957dcec4057db07a",
+        "product_id": "PROD-06",
+        "product_name": "Water Bottle",
+        "transaction_type": "STOCK_OUT",
+        "quantity": 4.0,
+        "stock_before": 4.0,
+        "stock_after": 0.0,
+        "timestamp": "2026-08-18T10:27:24.712165Z"
+    }
+]
